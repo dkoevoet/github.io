@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "Damian Koevoet"
   avatar           : "/assets/images/picture.jpeg"
-  bio              : "Postdoctoral researcher."
+  bio              : "Cognitive neuroscientist."
   location         : "Donders Institute, Netherlands"
   # email            : "damiankoevoet@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
@@ -132,7 +132,7 @@ author:
       url: "https://bsky.app/profile/dkoevoet.bsky.social"
     - label: "ORCiD"
       icon: "fab fa-brands fa-orcid"
-      url: "https://orcid.org/my-orcid?orcid=0000-0002-9395-6524"
+      url: "https://orcid.org/0000-0002-9395-6524"
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-square-facebook"
     #   # url: "https://facebook.com/"
