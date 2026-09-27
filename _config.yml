@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Site Title"
+title                    : "Damian Koevoet"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Damian Koevoet"
@@ -117,7 +117,7 @@ author:
   name             : "Damian Koevoet"
   avatar           : "/assets/images/picture.jpeg"
   bio              : "Postdoctoral researcher."
-  location         : "Donders Institute, Nijmegen, The Netherlands"
+  location         : "Donders Institute, Netherlands"
   # email            : "damiankoevoet@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
@@ -125,11 +125,14 @@ author:
       icon: "fas fa-fw fa-square-envelope"
       url: "mailto:damiankoevoet@gmail.com"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=CHa5DY4AAAAJ&hl=en"
     - label: "BlueSky"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-brands fa-bluesky"
       url: "https://bsky.app/profile/dkoevoet.bsky.social"
+    label: "ORCiD"
+      icon: "fab fa-brands fa-orcid"
+      url: "https://orcid.org/my-orcid?orcid=0000-0002-9395-6524"
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-square-facebook"
     #   # url: "https://facebook.com/"
