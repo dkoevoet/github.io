@@ -130,7 +130,7 @@ author:
     - label: "BlueSky"
       icon: "fab fa-brands fa-bluesky"
       url: "https://bsky.app/profile/dkoevoet.bsky.social"
-    label: "ORCiD"
+    - label: "ORCiD"
       icon: "fab fa-brands fa-orcid"
       url: "https://orcid.org/my-orcid?orcid=0000-0002-9395-6524"
     # - label: "Facebook"
